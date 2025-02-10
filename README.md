@@ -2,7 +2,7 @@
 # Hi, I'm Ihor! 👋
 
 ## 🚀 About Me
-Frontend Developer with 2.5 years of experience in building websites and web applications. I have strong knowledge of JavaScript and basic proficiency in TypeScript. Skilled in React and its ecosystem, with experience using tools such as Vite, Webpack, and Gulp. Proficient with styling libraries like Bootstrap and Tailwind. Familiar with Figma for UI/UX design. I have basic experience with Next.js, Express.js, Nest.js, and MongoDB. Here you can see some of my work.
+Frontend Developer with 2.5+ years of experience in building websites and web applications. I have strong knowledge of JavaScript and basic proficiency in TypeScript. Skilled in React and its ecosystem, with experience using tools such as Vite, Webpack, and Gulp. Proficient with styling libraries like Bootstrap and Tailwind. Familiar with Figma for UI/UX design. I have basic experience with Next.js, Express.js, Nest.js, and MongoDB. Here you can see some of my work.
 
 ## 🛠 My stack and tools
 <table align="center">
